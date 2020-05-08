@@ -1,2 +1,2 @@
 # yukicoder
-I've posted the "yukicoder" problems I've solved.
+I've posted "yukicoder" problems I've solved.
